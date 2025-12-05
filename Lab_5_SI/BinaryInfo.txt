@@ -1,0 +1,5 @@
+Binary file: table.bin
+Layout:
+- int N
+- then 2*N doubles: x0,y0,x1,y1,...
+Function: f(x) = x^3/30 - 4x^2 + 50

@@ -1,0 +1,2 @@
+Index     x                 f(x)
+(Program will overwrite this file with results)
