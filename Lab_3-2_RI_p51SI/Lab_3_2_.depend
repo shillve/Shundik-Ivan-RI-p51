@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1763919453 source:c:\users\user\onedrive\desktop\lab3_2_my\lab_3_2_my\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"header.h"
+	"header.c"
+
+1763919168 c:\users\user\onedrive\desktop\lab3_2_my\lab_3_2_my\methods_header.h
+
+1763919374 c:\users\user\onedrive\desktop\lab3_2_my\lab_3_2_my\header.h
+
+1763919461 c:\users\user\onedrive\desktop\lab3_2_my\lab_3_2_my\header.c
+	<stdio.h>
+	<math.h>
+	"header.h"
+
